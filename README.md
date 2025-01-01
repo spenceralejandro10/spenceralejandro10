@@ -1,10 +1,5 @@
 # Bienvenido a Spencer-Alejandro 👨‍💻✨
 
-<div align="center">
-  <img src="assets/imagen_perfil.jpg" alt="Mi Perfil" width="800" />
-</div>
-
-
 ¡Hola! Soy **Spencer**, un apasionado por la tecnología de **Colombia**. Actualmente estoy cursando el 5º semestre de **Ingeniería de Sistemas** y tengo un **Tecnólogo en Análisis y Desarrollo de Software**. 🚀 
 
 ## Acerca de mí 🌟
@@ -19,3 +14,6 @@
 
 ---
 ¡Gracias por visitar mi página! 🚀
+<div align="center">
+  <img src="assets/imagen_perfil2.jpg" alt="Mi Perfil" width="800" />
+</div>
