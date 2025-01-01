@@ -14,7 +14,7 @@ Hi! I'm **Spencer**, a technology enthusiast from **Colombia**. I am currently i
 
 ---
 
-## Motivational Quotes 🌟
+## Thoughts 🌟
 
 > **"The true journey is not in the destination but in the constant expansion of our horizons, no matter when the adventure begins."** 🌌
 
