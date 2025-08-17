@@ -1,32 +1,27 @@
-# Welcome to Davcode-Spencer 👨‍💻✨
+# Welcome to CloudSpencer ☁️
 
-Hi! I'm **Spencer**, a technology enthusiast from **Colombia**. I am currently in my 5th semester of **Systems Engineering** and hold a **Technologist degree in Software Analysis and Development**. 🚀 
+Hi! I'm **Spencer**, a technology enthusiast from **Colombia**. I am currently in my **6th semester of Systems Engineering (UNAD)** and **4th semester of Data Science Engineering (Iberoamericana)**, and I hold a **Technologist degree in Software Analysis and Development (SENA)**. 🚀  
 
 ## About Me 🌟
-- 📚 Basic knowledge in **HTML**, **CSS**, and currently learning **JavaScript** and **Git**.
-- 🛠️ Hands-on experience with tools like **Putty**, **WinSCP**, **VirtualBox**, **VMware**, and local servers like **XAMPP**.
-- 💻 Proficient in managing virtual machines for testing and development environments.
-- 🔧 Passionate about learning and improving my skills in technology and development.
+- 🛠️ Practical knowledge in **server administration**, **virtual machines**, **Linux and Windows Server**, and management tools like **VMware, WinSCP, PuTTY, and XAMPP**.  
+- ☁️ Hands-on experience in **cloud environments and virtualization**, including basic database management, IP and virtual network configuration.  
+- 💻 Ability to configure and maintain **local and cloud servers**, focused on practical application and experimentation.  
+- 🔧 Passionate about technology applied to **cloud infrastructure**, constantly improving skills and expanding knowledge.  
 
 ## On this page, you'll find 🖥️
-- Projects and practical exercises I am working on.
-- My evolution and learning journey in programming and technology.
+- Practical projects in **virtual infrastructure, servers, and cloud environments**.  
+- My evolution in technical learning and experience with digital environments.  
 
 ---
 
-## Thoughts 🌟
-
-> **"The true journey is not in the destination but in the constant expansion of our horizons, no matter when the adventure begins."** 🌌
-
-> **"Age doesn't matter, only the courage to embark on the mission of learning, growing, and exploring new frontiers."** 🚀
-
-> **"Every line of code written is a step into infinity. Curiosity and effort are our guiding stars."** ✨
-
-> **"In this universe, no time is wasted, only experiences that prepare us for the next big leap."** 🌠
-
-> **"Engineering doesn't just build systems; it builds dreams. And you are programming the future, one step at a time."** 💻
-
-> **"Like the explorers of the stars, each day brings a new challenge, a new opportunity to be better than yesterday."** 🌟
+## Thoughts of a Starfleet Explorer 🌌
+> **"Every server launched is a new solar system we conquer."**  
+> **"The cloud has no limits; neither does our curiosity."**  
+> **"Each configuration line is a leap in the orbit of knowledge."**  
+> **"Exploring networks is like mapping invisible constellations."**  
+> **"Time spent learning infrastructure becomes energy for future missions."**  
+> **"A systems engineer builds digital galaxies, step by step."**  
+> **"Virtualization turns the abstract into real; our creativity, into tangible."**  
 
 ---
 
