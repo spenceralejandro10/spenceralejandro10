@@ -4,13 +4,15 @@
 
 **Software & Data Networks Technologist | Systems Engineering Student | Business Strategy & Innovation**
 
-Soy tecnólogo en **Desarrollo de Software** y en **Gestión de Redes de Datos**, y actualmente continúo mi formación en **Ingeniería de Sistemas**. Mi perfil combina desarrollo, infraestructura, inteligencia artificial, automatización y una orientación creciente hacia la estrategia y la innovación empresarial.
+Soy tecnólogo en **Desarrollo de Software** y en **Gestión de Redes de Datos**, y actualmente continúo mi formación en **Ingeniería de Sistemas**.
 
-Mi objetivo profesional es utilizar la ingeniería no solo para construir software o administrar infraestructura, sino también para **convertir ideas en productos, procesos y oportunidades de negocio**, combinando capacidad técnica con pensamiento estratégico e innovación empresarial.
+Mi perfil está en construcción. He trabajado y experimentado con desarrollo de software, herramientas de inteligencia artificial, automatización y servicios digitales, mientras fortalezco una nueva línea de formación orientada a **estrategia e innovación empresarial**.
+
+Mi objetivo es aprender a utilizar la tecnología para **convertir ideas en soluciones y oportunidades de negocio**, desarrollando criterio técnico y empresarial de forma progresiva.
 
 ---
 
-## Formación técnica
+## Formación
 
 - **Tecnólogo en Desarrollo de Software**
 - **Tecnólogo en Gestión de Redes de Datos**
@@ -18,32 +20,31 @@ Mi objetivo profesional es utilizar la ingeniería no solo para construir softwa
 
 ---
 
-## Áreas de enfoque
+## Intereses actuales
 
-- **Desarrollo de software y productos digitales**
-- **Redes, infraestructura y entornos cloud**
-- **Inteligencia artificial aplicada y automatización**
-- **Arquitectura, APIs y bases de datos**
-- **Estrategia e innovación empresarial**
-- **Diseño y validación de soluciones digitales**
-- **Uso de IA como multiplicador de productividad y capacidad de ejecución**
+- Desarrollo de software
+- Inteligencia artificial aplicada
+- Automatización
+- Servicios y herramientas cloud
+- Estrategia e innovación empresarial
+- Creación y validación de soluciones digitales
 
 ---
 
 ## Proyectos destacados
 
 ### CardNest
-Plataforma de catálogo y comercio electrónico con gestión de productos, interacción en tiempo real y backend cloud.
+Proyecto de catálogo y comercio electrónico con gestión de productos y servicios backend.
 
 [Ver proyecto](https://github.com/spenceralejandro10/pokemon-card-inventory)
 
 ### Web Media Collector
-Sistema para descubrir, organizar y procesar contenido web mediante extensión de navegador, servicios cloud, almacenamiento y automatización.
+Proyecto para recopilar, organizar y procesar contenido web mediante una extensión de navegador y servicios cloud.
 
 [Ver proyecto](https://github.com/spenceralejandro10/web-image-url-collector)
 
 ### AI World Atlas
-Proyecto experimental enfocado en inteligencia artificial y experiencias digitales.
+Proyecto experimental relacionado con inteligencia artificial y experiencias digitales.
 
 [Ver proyecto](https://github.com/spenceralejandro10/ai-world-atlas)
 
@@ -51,20 +52,11 @@ Proyecto experimental enfocado en inteligencia artificial y experiencias digital
 
 ## Dirección profesional
 
-Estoy construyendo un perfil que combine:
+Actualmente estoy orientando mi desarrollo hacia la combinación de:
 
-**Ingeniería + Software + Redes + Inteligencia Artificial + Estrategia + Innovación + Negocios**
+**Tecnología + Inteligencia Artificial + Estrategia + Innovación + Negocios**
 
-Mi base técnica está en software, redes y sistemas. Mi siguiente etapa de desarrollo está orientada a fortalecer capacidades para **analizar oportunidades, tomar mejores decisiones, diseñar modelos de negocio y crear soluciones con potencial de crecimiento**.
-
----
-
-## Actualmente
-
-- Formación en **Ingeniería de Sistemas**
-- Desarrollo continuo de proyectos tecnológicos
-- Experimentación con **IA, automatización y herramientas cloud**
-- Formación progresiva en **estrategia, innovación y negocios**
+La intención es fortalecer, de manera progresiva, habilidades para **analizar oportunidades, tomar decisiones, entender modelos de negocio y crear soluciones con potencial de crecimiento**.
 
 ---
 
