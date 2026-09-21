@@ -1,63 +1,61 @@
-# Alejandro Spencer
+# David Spencer
 
-### Tecnólogo en Software y Redes de Datos | Ingeniería de Sistemas en formación | Estrategia e Innovación Empresarial
+### Software & Data Networks Technologist | Systems Engineering Student | Business Strategy & Innovation
 
-**Software & Data Networks Technologist | Systems Engineering Student | Business Strategy & Innovation**
+I am a **Software Development Technologist** and **Data Network Management Technologist**, currently pursuing a degree in **Systems Engineering**.
 
-Soy tecnólogo en **Desarrollo de Software** y en **Gestión de Redes de Datos**, y actualmente continúo mi formación en **Ingeniería de Sistemas**.
+My professional profile is evolving through hands-on work and experimentation with software development, artificial intelligence, automation, and digital services, while I build a complementary foundation in **business strategy and innovation**.
 
-Mi perfil está en construcción. He trabajado y experimentado con desarrollo de software, herramientas de inteligencia artificial, automatización y servicios digitales, mientras fortalezco una nueva línea de formación orientada a **estrategia e innovación empresarial**.
-
-Mi objetivo es aprender a utilizar la tecnología para **convertir ideas en soluciones y oportunidades de negocio**, desarrollando criterio técnico y empresarial de forma progresiva.
+My goal is to use technology to **turn ideas into solutions and business opportunities**, progressively developing both technical and business judgment.
 
 ---
 
-## Formación
+## Education
 
-- **Tecnólogo en Desarrollo de Software**
-- **Tecnólogo en Gestión de Redes de Datos**
-- **Ingeniería de Sistemas — en formación**
-
----
-
-## Intereses actuales
-
-- Desarrollo de software
-- Inteligencia artificial aplicada
-- Automatización
-- Servicios y herramientas cloud
-- Estrategia e innovación empresarial
-- Creación y validación de soluciones digitales
+- **Software Development Technologist**
+- **Data Network Management Technologist**
+- **Systems Engineering — In Progress**
 
 ---
 
-## Proyectos destacados
+## Current Interests
+
+- Software development
+- Applied artificial intelligence
+- Automation
+- Cloud services and tools
+- Business strategy and innovation
+- Creation and validation of digital solutions
+
+---
+
+## Featured Projects
 
 ### CardNest
-Proyecto de catálogo y comercio electrónico con gestión de productos y servicios backend.
+A catalog and e-commerce project focused on product management and backend services.
 
-[Ver proyecto](https://github.com/spenceralejandro10/pokemon-card-inventory)
+[View project](https://github.com/spenceralejandro10/pokemon-card-inventory)
 
 ### Web Media Collector
-Proyecto para recopilar, organizar y procesar contenido web mediante una extensión de navegador y servicios cloud.
+A project for collecting, organizing, and processing web content through a browser extension and cloud services.
 
-[Ver proyecto](https://github.com/spenceralejandro10/web-image-url-collector)
+[View project](https://github.com/spenceralejandro10/web-image-url-collector)
 
 ### AI World Atlas
-Proyecto experimental relacionado con inteligencia artificial y experiencias digitales.
+An experimental project exploring artificial intelligence and digital experiences.
 
-[Ver proyecto](https://github.com/spenceralejandro10/ai-world-atlas)
-
----
-
-## Dirección profesional
-
-Actualmente estoy orientando mi desarrollo hacia la combinación de:
-
-**Tecnología + Inteligencia Artificial + Estrategia + Innovación + Negocios**
-
-La intención es fortalecer, de manera progresiva, habilidades para **analizar oportunidades, tomar decisiones, entender modelos de negocio y crear soluciones con potencial de crecimiento**.
+[View project](https://github.com/spenceralejandro10/ai-world-atlas)
 
 ---
 
-> **Construir tecnología es una capacidad. Saber qué construir, por qué hacerlo y cómo convertirlo en valor es la siguiente etapa.**
+## Professional Direction
+
+I am currently shaping my professional development around the intersection of:
+
+**Technology + Artificial Intelligence + Strategy + Innovation + Business**
+
+My goal is to progressively strengthen my ability to **identify opportunities, make informed decisions, understand business models, and create solutions with growth potential**.
+
+---
+
+> **Building technology is a capability. Knowing what to build, why it matters, and how to turn it into value is the next step.**
